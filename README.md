@@ -38,8 +38,8 @@ You need to create a project to use your GCP credits.
 
 ![alt text](image-5.png)
 
-!!! warning
-If you only have one billing account (Billing Account for Education), GCP will associate the project wit this billing account automatically. However, if you have multiple billing accounts. Please make sure you select `Billing Account for Education` for this project. Otherwise, GCP may charge you.
+> [!WARNING]
+> If you only have one billing account (Billing Account for Education), GCP will associate the project wit this billing account automatically. However, if you have multiple billing accounts. Please make sure you select `Billing Account for Education` for this project. Otherwise, GCP may charge you.
 
 
 ## Create a new VM
