@@ -42,7 +42,11 @@ You need to create a project to use your GCP credits.
 > If you only have one billing account (Billing Account for Education), GCP will associate the project wit this billing account automatically. However, if you have multiple billing accounts. Please make sure you select `Billing Account for Education` for this project. Otherwise, GCP may charge you.
 
 
-## Create a new VM
+## Create a new VM (Optional) 
+
+> [!WARNING]
+> A running VM will use your GCP credits. You should stop it if you are not using it. 
+
 
 Once you have your project ready. Go back to the [dashboard](https://console.cloud.google.com/home/dashboard) and make sure you select project `CMU-313`
 
